@@ -1,0 +1,15 @@
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\bin\Debug\GameDesigner2.exe.config
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\bin\Debug\GameDesigner2.exe
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\bin\Debug\GameDesigner2.pdb
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.csproj.AssemblyReference.cache
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.csproj.SuggestedBindingRedirects.cache
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.Properties.Resources.resources
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.csproj.GenerateResource.cache
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.csproj.CoreCompileInputs.cache
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.exe
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.pdb
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.Form1.resources
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.WallForm.resources
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.ActiveForm.resources
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.PropForm.resources
+E:\Code\Csharp学习\GameDesigner2\GameDesigner2\obj\Debug\GameDesigner2.SettingForm.resources
