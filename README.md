@@ -7,6 +7,9 @@ tags:
 editor: markdown
 dateCreated: 2022-10-05T07:57:15.455Z
 ---
+# 地址
+[GitHub地址:https://github.com/AlbertGarcia0219/GameDesigner2](https://github.com/AlbertGarcia0219/GameDesigner2)
+[Gitee地址:https://gitee.com/KiwiSenpaii/game-designer2](https://gitee.com/KiwiSenpaii/game-designer2)
 # 目的
 我是前端菜鸟，尝试学习后端的继承，线程等思想。
 # 设计
